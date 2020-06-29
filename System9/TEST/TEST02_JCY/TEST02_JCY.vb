@@ -131,6 +131,8 @@ Public Class TEST02_JCY
 
             '분기 테스트 master / User
 
+            'master 작업 진행 (원격저장소에 업로드 되면 x 그럼 다른 쪽에서 분기든, 수정이든 바로 병합해야함 변경 작업 쭉 진행하다 완료시에만 원격저장소 커밋)
+
         End If
     End Sub
 
