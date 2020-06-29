@@ -124,7 +124,7 @@ Public Class TEST02_JCY
             'but_copy.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Default
             'but_copy.Font = New Font("Tahoma", 9)
             'but_copy.ForeColor = Color.Black
-            '개발자1에서 변경작업 수행
+            '우선 분업 하는 경우는 적으니, 파일 변경 / 추가 시 커밋하고 버전 관리하는거 부터 진행
         End If
     End Sub
 
