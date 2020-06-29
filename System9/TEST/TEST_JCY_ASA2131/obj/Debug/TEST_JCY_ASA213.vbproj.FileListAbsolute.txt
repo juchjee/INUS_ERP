@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\System9\TEST_JCY_ASA213.dll
+C:\inetpub\wwwroot\System9\TEST_JCY_ASA213.pdb
+C:\NEW_ERP\System9\TEST\TEST_JCY_ASA2131\obj\Debug\TEST_JCY_ASA213.vbprojResolveAssemblyReference.cache
+C:\NEW_ERP\System9\TEST\TEST_JCY_ASA2131\obj\Debug\System9.TEST_JCY_ASA213.resources
+C:\NEW_ERP\System9\TEST\TEST_JCY_ASA2131\obj\Debug\System9.Resources.resources
+C:\NEW_ERP\System9\TEST\TEST_JCY_ASA2131\obj\Debug\TEST_JCY_ASA213.vbproj.GenerateResource.Cache
+C:\NEW_ERP\System9\TEST\TEST_JCY_ASA2131\obj\Debug\TEST_JCY_ASA213.dll.licenses
+C:\NEW_ERP\System9\TEST\TEST_JCY_ASA2131\obj\Debug\TEST_JCY_ASA213.dll
+C:\NEW_ERP\System9\TEST\TEST_JCY_ASA2131\obj\Debug\TEST_JCY_ASA213.pdb

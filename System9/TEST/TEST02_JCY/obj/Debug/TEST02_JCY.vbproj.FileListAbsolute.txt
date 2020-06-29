@@ -1,0 +1,9 @@
+C:\NEW_ERP\System9\TEST\TEST02_JCY\obj\Debug\System9.TEST02_JCY.resources
+C:\NEW_ERP\System9\TEST\TEST02_JCY\obj\Debug\System9.Resources.resources
+C:\NEW_ERP\System9\TEST\TEST02_JCY\obj\Debug\TEST02_JCY.vbproj.GenerateResource.Cache
+C:\NEW_ERP\System9\TEST\TEST02_JCY\obj\Debug\TEST02_JCY.dll.licenses
+C:\inetpub\wwwroot\System9\TEST02_JCY.dll
+C:\inetpub\wwwroot\System9\TEST02_JCY.pdb
+C:\NEW_ERP\System9\TEST\TEST02_JCY\obj\Debug\TEST02_JCY.dll
+C:\NEW_ERP\System9\TEST\TEST02_JCY\obj\Debug\TEST02_JCY.pdb
+C:\NEW_ERP\System9\TEST\TEST02_JCY\obj\Debug\TEST02_JCY.vbprojResolveAssemblyReference.cache

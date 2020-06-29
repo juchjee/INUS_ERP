@@ -1,0 +1,8 @@
+C:\NEW_ERP\System9\TEST\TEST04_ERP03\obj\Debug\System9.TEST04_ERP03.resources
+C:\NEW_ERP\System9\TEST\TEST04_ERP03\obj\Debug\System9.Resources.resources
+C:\NEW_ERP\System9\TEST\TEST04_ERP03\obj\Debug\TEST04_ERP03.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\System9\TEST04_ERP03.dll
+C:\inetpub\wwwroot\System9\TEST04_ERP03.pdb
+C:\NEW_ERP\System9\TEST\TEST04_ERP03\obj\Debug\TEST04_ERP03.dll
+C:\NEW_ERP\System9\TEST\TEST04_ERP03\obj\Debug\TEST04_ERP03.pdb
+C:\NEW_ERP\System9\TEST\TEST04_ERP03\obj\Debug\TEST04_ERP03.vbprojResolveAssemblyReference.cache
